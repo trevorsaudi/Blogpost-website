@@ -1,0 +1,2 @@
+* linguist-vendored
+*.flaskblog linguist-vendored=false
