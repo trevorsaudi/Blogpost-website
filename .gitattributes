@@ -1,2 +1,2 @@
-flaskblog/static/* linguist-vendored
-flaskblog/templates/* linguist-vendored
+flaskblog/* linguist-vendored
+
