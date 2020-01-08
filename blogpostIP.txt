@@ -1,2 +1,0 @@
-ssh root@74.207.227.85
-trevorsaudi sudo user , password- testing
